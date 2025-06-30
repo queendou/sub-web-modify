@@ -811,7 +811,7 @@ export default {
   },
 
   created() {
-    document.title = "ZRF.ME | 在线订阅转换工具";
+    document.title = "自己的在线订阅转换工具";
     this.isPC = this.$getOS().isPc;
   },
   mounted() {
